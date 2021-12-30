@@ -1,0 +1,17 @@
+{
+  "name": "ybmybnr-7g3nzzn",
+  "hash": "hsorfpqQwvJaUJBadqpwVuONAflfvSTylH8hO9PkpxM=",
+  "description": "Image Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "C:\\Users\\leokr\\Documents\\GitHub\\nextserverless\\.serverless_nextjs\\image-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs14.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::417461054686:role/ybmybnr-en55so9"
+  },
+  "arn": "arn:aws:lambda:us-east-1:417461054686:function:ybmybnr-7g3nzzn",
+  "region": "us-east-1"
+}
